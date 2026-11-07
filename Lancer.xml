@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rom-definition version="1.0">
+    <rom type="cartridge" title="Lancer" version="1.0" />
+    <binary path="obj/Lancer.vbin" />
+    <textures>
+        <texture path="vector_lines.vtex" />
+    </textures>
+    <sounds>
+        <sound path="sounds/laser.vsnd" />
+        <sound path="sounds/explode.vsnd" />
+        <sound path="sounds/fireball.vsnd" />
+        <sound path="sounds/fireball_pop.vsnd" />
+        <sound path="sounds/shield_hit.vsnd" />
+        <sound path="sounds/big_boom.vsnd" />
+        <sound path="sounds/banner.vsnd" />
+        <sound path="sounds/beep.vsnd" />
+        <sound path="sounds/tower_down.vsnd" />
+        <sound path="sounds/hum.vsnd" />
+        <sound path="sounds/start.vsnd" />
+        <sound path="sounds/game_over.vsnd" />
+        <sound path="sounds/extra_shield.vsnd" />
+        <sound path="sounds/ins_pulse12.vsnd" />
+        <sound path="sounds/ins_pulse25.vsnd" />
+        <sound path="sounds/ins_pulse50.vsnd" />
+        <sound path="sounds/ins_triangle.vsnd" />
+        <sound path="sounds/drum_kick.vsnd" />
+        <sound path="sounds/drum_snare.vsnd" />
+        <sound path="sounds/drum_hat.vsnd" />
+        <sound path="sounds/drum_ohat.vsnd" />
+    </sounds>
+</rom-definition>
